@@ -85,15 +85,6 @@
 
 <div align="center">
 
-## GitHub Analytics
-
-<img src="https://github-readme-stats.vercel.app/api?username=wth1337Prod&show_icons=true&count_private=true&hide=issues&hide_border=true&theme=github_dark" alt="GitHub Stats" height="160" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wth1337Prod&theme=github-dark&hide_border=true" alt="GitHub Streak" height="160" />
-
-</div>
-
-<div align="center">
-
 ## Contact Me
 
 <a href="username in discord = wthuntos"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
